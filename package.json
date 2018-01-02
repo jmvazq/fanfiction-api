@@ -1,0 +1,12 @@
+{
+  "name"         : "fanfiction-api",
+  "version"      : "0.0.1",
+  "description"  : "FanFiction.net web scraper presented as a Web API.",
+  "main"         : "index.js",
+  "author"       : "Jessica M. Vazquez",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
